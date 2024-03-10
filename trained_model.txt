@@ -1,0 +1,4 @@
+Model:
+https://drive.google.com/drive/folders/1JlZ7ZWeuwUxpXOUn-f0LMvEZocVDZ_X2?usp=sharing
+
+due to huge size of model download it from this link and paste it in the github folder with the name 'savedModels'
